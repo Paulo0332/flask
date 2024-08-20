@@ -1,0 +1,24 @@
+.centered_container{
+    margin: 0 auto;
+    max-width: 1000px;
+    background-color:burlywood ;
+
+}
+
+.clearfix{
+  clear: both;
+}
+
+.image-container {
+    width: 400px;
+    height: 300px;
+    margin: 30px;
+  }
+  
+  .left-aligned {
+    float: left;
+  }
+
+  .right-aligned{
+    float: right;
+  }
